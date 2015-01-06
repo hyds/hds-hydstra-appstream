@@ -20,16 +20,17 @@
 
 2.1 Install the example client for Chrome in the Chrome Web Store. If the hyperlink doesn’t work, cut and paste the following link into Google Chrome address bar.
 
-(AppStream Client)[http://chrome.appstream.amazonaws.com/v2]
+http://chrome.appstream.amazonaws.com/v2
 
-
+Install the application.
+	
 2.2 With the AppStream client installed, click on the following link to test the appstream.
 
 Please note that the following link is in test mode and is only available for one person to use once. 
 
 For a second test the AWS admin will need to generate a new link, and this will take 10 minutes to deploy.
 
-(Hydstra AppStream Link)[http://chrome.appstream.amazonaws.com/v2?testModeUrl=https://appstream.us-east-1.amazonaws.com/entitlements/36b60c2b-e922-4b37-ac3f-59558594ff12-us-east-1]
+http://chrome.appstream.amazonaws.com/v2?testModeUrl=https://appstream.us-east-1.amazonaws.com/entitlements/36b60c2b-e922-4b37-ac3f-59558594ff12-us-east-1
 
 2.3 The Hydstra AppStream startup window should look like the image below:
 
