@@ -26,11 +26,16 @@ Install the application.
 	
 2.2 With the AppStream client installed, click on the following link to test the appstream.
 
+```
 Please note that the following link is in test mode and is only available for one person to use once. 
 
-For a second test the AWS admin will need to generate a new link, and this will take 10 minutes to deploy.
+```
 
 http://chrome.appstream.amazonaws.com/v2?testModeUrl=https://appstream.us-east-1.amazonaws.com/entitlements/36b60c2b-e922-4b37-ac3f-59558594ff12-us-east-1
+
+```
+For a second test the AWS admin will need to generate a new link, and this will take 10 minutes to deploy.
+```
 
 2.3 The Hydstra AppStream startup window should look like the image below:
 
@@ -41,9 +46,9 @@ http://chrome.appstream.amazonaws.com/v2?testModeUrl=https://appstream.us-east-1
 
 Notes:
 ``` 
-* This is a test FoxPro system
-* This is a new install of Hydstra Version 11.
-* This system does not have any Thiess data in it -   
+ FoxPro system
+ Hydstra Version 11
+ This system does not have any client data in it   
 
 ```
 
