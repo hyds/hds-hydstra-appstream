@@ -1,6 +1,3 @@
-hds-hydstra-appstream
-=====================
-
 # Hydstra Cloud AppStream Connection Procedure 
 
 ## 1. Connect to iPhone Personal Hotspot
